@@ -1,0 +1,34 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+shift+l",
+    "command": "r.runCommand",
+    "when": "",
+    "args": "devtools::load_all()"
+  },
+  {
+    "key": "ctrl+shift+a",
+    "command": "r.runCommand",
+    "when": "",
+    "args": "lctool::RunApp(port = 3306, host = '127.0.0.1', appMode = 'DEVELOPMENT')"
+  },
+  {
+    "key": "ctrl+right",
+    "command": "cursorWordStartRight",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+right",
+    "command": "cursorWordStartRightSelect",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+'",
+    "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "ctrl+'",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "terminalFocus"
+  }
+]
