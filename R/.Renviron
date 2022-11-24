@@ -1,0 +1,5 @@
+options(radian.color_scheme = "monokai")
+options(radian.prompt = "\033[0;34m>\033[0m ")
+options(radian.auto_suggest = TRUE)
+options(radian.highlight_matching_bracket = TRUE)
+options(radian.tab_size = 2)
