@@ -1,17 +1,12 @@
 {
-  "workbench.colorTheme": "Monokai Dimmed",
-  "r.alwaysUseActiveTerminal": true,
-  "r.bracketedPaste": true,
-  "git.autofetch": true,
-  "git.confirmSync": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.rulers": [
-    100
-  ],
-  "files.trimTrailingWhitespace": true,
-  "files.trimFinalNewlines": true,
-  "files.insertFinalNewline": true,
+  "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
+  "editor.rulers": [
+    {
+      "column": 100,
+      "color": "#322f2f"
+    }
+  ],
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "none",
   "editor.renderControlCharacters": true,
@@ -19,22 +14,31 @@
   "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
+  "editor.fontSize": 14,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "extensions.ignoreRecommendations": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "r.alwaysUseActiveTerminal": true,
+  "r.bracketedPaste": true,
+  "r.sessionWatcher": true,
+  "r.lsp.debug": true,
+  "r.lsp.diagnostics": false,
+  "r.plot.useHttpgd": true,
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.fontSize": 13,
+  "window.zoomLevel": -1,
+  "workbench.panel.defaultLocation": "right",
   "workbench.colorCustomizations": {
     "terminal.background": "#1C2226"
   },
-  "files.eol": "\n",
-  "extensions.ignoreRecommendations": true,
-  "workbench.panel.defaultLocation": "right",
-  "editor.formatOnPaste": true,
-  "r.sessionWatcher": true,
-  "breadcrumbs.enabled": false,
-  "workbench.statusBar.visible": true,
-  "editor.formatOnType": true,
-  "r.lsp.debug": true,
-  "editor.bracketPairColorization.enabled": true,
-  "terminal.integrated.persistentSessionReviveProcess": "never",
-  "r.lsp.diagnostics": false,
-  "r.plot.useHttpgd": true,
-  "editor.fontSize": 14,
-  "terminal.integrated.fontSize": 13
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.visible": true
 }
