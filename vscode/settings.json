@@ -31,6 +31,7 @@
   "r.lsp.debug": true,
   "r.lsp.diagnostics": false,
   "r.plot.useHttpgd": true,
+  "r.session.data.rowLimit": 1000,
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.fontSize": 13,
   "window.zoomLevel": -1,
@@ -40,5 +41,5 @@
   },
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
 }
