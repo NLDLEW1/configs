@@ -29,7 +29,7 @@
   "r.bracketedPaste": true,
   "r.sessionWatcher": true,
   "r.lsp.debug": true,
-  "r.lsp.diagnostics": false,
+  "r.lsp.diagnostics": true,
   "r.plot.useHttpgd": true,
   "r.session.data.rowLimit": 1000,
   "terminal.integrated.persistentSessionReviveProcess": "never",
