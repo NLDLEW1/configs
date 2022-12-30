@@ -34,6 +34,7 @@
   "r.session.data.rowLimit": 1000,
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.fontSize": 13,
+  "terminal.integrated.cursorBlinking": true,
   "window.zoomLevel": -1,
   "workbench.panel.defaultLocation": "right",
   "workbench.colorCustomizations": {
@@ -42,4 +43,8 @@
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.statusBar.visible": true,
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#12ff00",
+    "terminalCursor.foreground": "#12ff00
+  }  
 }
