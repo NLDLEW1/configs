@@ -45,6 +45,6 @@
   "workbench.statusBar.visible": true,
   "workbench.colorCustomizations": {
     "tab.activeBorder": "#12ff00",
-    "terminalCursor.foreground": "#12ff00
+    "terminalCursor.foreground": "#12ff00"
   }  
 }
