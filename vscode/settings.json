@@ -37,14 +37,12 @@
   "terminal.integrated.cursorBlinking": true,
   "window.zoomLevel": -1,
   "workbench.panel.defaultLocation": "right",
-  "workbench.colorCustomizations": {
-    "terminal.background": "#1C2226"
-  },
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.statusBar.visible": true,
   "workbench.colorCustomizations": {
     "tab.activeBorder": "#12ff00",
+    "terminal.background": "#1C2226",
     "terminalCursor.foreground": "#12ff00"
-  }  
+  }
 }
