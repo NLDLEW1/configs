@@ -14,7 +14,7 @@
   "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
-  "editor.fontSize": 14,
+  "editor.fontSize": 14,  
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
@@ -44,5 +44,6 @@
     "tab.activeBorder": "#12ff00",
     "terminal.background": "#1C2226",
     "terminalCursor.foreground": "#12ff00"
-  }
+  },
+  "workbench.editor.enablePreview": false
 }
